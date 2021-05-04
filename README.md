@@ -1,5 +1,4 @@
-### Hi there 👋
-Hello!
+👋 Hello!
 My name is Svetlana. It's a special repository to see my way to Frontend-developer. 
 
 -- 🌱 I’m currently learning in HTML Academy and styde JS.
